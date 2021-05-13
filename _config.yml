@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Alexander Ronkowski
+title: Alexander Bonkowski
 email: alexander.bonkowski@rwth-aachen.de
 description: >- # this means to ignore newlines until "baseurl:"
   This is my own homepage. WIP
@@ -30,7 +30,7 @@ github_username:  ab5424
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
