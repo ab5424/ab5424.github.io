@@ -11024,7 +11024,7 @@ a, a:link, a:hover, a:visited, a:active {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #00273d;
+    color: white;
     font-weight: inherit;
     margin: 1.25rem 0 0.625rem;
     line-height: 1.45em;
