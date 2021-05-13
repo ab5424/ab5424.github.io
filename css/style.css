@@ -11005,8 +11005,8 @@ html {
 }
 
 body {
-    background-color: white;
-    color: #333333;
+    background-color: #333333;
+    color: white;
     font-family: 'IBM Plex Sans', Helvetica, Arial, serif;
     font-size: 100%;
     font-weight: 400;
