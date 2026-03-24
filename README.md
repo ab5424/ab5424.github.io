@@ -5,6 +5,7 @@ This is the repository for [my personal website](ab5424.github.io).
 ## Development
 
 - Install dependencies: `bundle install`
+- Regenerate publications page: `ruby scripts/generate_publications.rb`
 - Run locally: `bundle exec jekyll serve`
 
 ## Deployment

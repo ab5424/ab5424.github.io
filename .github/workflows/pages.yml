@@ -30,6 +30,9 @@ jobs:
           ruby-version: "3.3"
           bundler-cache: true
 
+      - name: Generate publications page
+        run: ruby scripts/generate_publications.rb
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
